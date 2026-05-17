@@ -125,4 +125,4 @@ curl http://localhost:8080
 
 * * *
 
-[← Вернуться к списку лабораторных работ по Docker + C#](index_docker_csharp.html)
+[← Вернуться к списку лабораторных работ по Docker + C#](readme.md)
