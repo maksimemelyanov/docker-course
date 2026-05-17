@@ -2,9 +2,9 @@
 
 3 работы по 40–50 минут каждая. Для студентов, изучающих C# и .NET.
 
-*   [Лабораторная работа №1. Основы Docker: контейнеризация .NET-приложения](docker_csharp_lab1.html)
-*   [Лабораторная работа №2. Docker Compose: ASP.NET Core + PostgreSQL](docker_csharp_lab2.html)
-*   [Лабораторная работа №3. Микросервисы: два .NET-сервиса + Redis + RabbitMQ](docker_csharp_lab3.html)
+*   [Лабораторная работа №1. Основы Docker: контейнеризация .NET-приложения](lab1.md)
+*   [Лабораторная работа №2. Docker Compose: ASP.NET Core + PostgreSQL](lab2.md)
+*   [Лабораторная работа №3. Микросервисы: два .NET-сервиса + Redis + RabbitMQ](lab3.md)
 
 * * *
 
