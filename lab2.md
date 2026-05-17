@@ -161,4 +161,4 @@ curl -X POST http://localhost:5000/products -H "Content-Type: application/json" 
 
 * * *
 
-[← Вернуться к списку лабораторных работ по Docker + C#](index_docker_csharp.html)
+[← Вернуться к списку лабораторных работ по Docker + C#](readme.md)
